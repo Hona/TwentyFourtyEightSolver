@@ -1,0 +1,2 @@
+# 2048Solver
+This is a 2048 'bot' that wins the game every time... A project I wrote to fool my friends into thinking it is a bot. The 'bot' makes random moves, then the board is sorted. This is much quicker than writing an actual bot :)
